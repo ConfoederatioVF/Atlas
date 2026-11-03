@@ -17,6 +17,7 @@
 > [!NOTE]
 > **Atlas de facto** is currently a naive geospatialisation of all Wikipedia corpus text and maps with limited manual edits. Therefore, it inherits the same errors that Wikipedia does. We are actively working to address these problems.
 
+**Atlas** is part of the **Naissance World Model**, a digital twin of human society from 10000BC-2025AD.
 - E-mail: [vf@confoederatio.org](mailto:vf@confoederatio.org)
 - Dataview: https://dataview.confoederatio.org/
 - <ins>Download:</ins>
